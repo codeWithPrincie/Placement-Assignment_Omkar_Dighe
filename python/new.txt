@@ -1,0 +1,3 @@
+Write a program that takes a string as input, and counts the frequency of each word in the string, there might
+be repeated characters in the string. Your task is to find the highest frequency and returns the length of the
+highest-frequency word.
